@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Harry-Wieland
+- 👀 I’m interested in learing.
+- 🌱 I’m currently learning software engineering at Robert Morris University
